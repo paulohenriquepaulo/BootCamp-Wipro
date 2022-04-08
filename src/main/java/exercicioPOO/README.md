@@ -18,7 +18,7 @@
 
 3) Dada a interface FormaGeometrica:
 
-   ![img.png](img/img.png)
+   ![img_1.png](img/img_1.png)
 
    Crie as classes que representem: círculo, retângulo, quadrado e triangulo retângulo,
    implementando a interface FormaGeometrica e crie métodos para o cálculo da área
@@ -27,7 +27,7 @@
 
 4) Dada a Classe Funcionário:
 
-    ![img_1.png](img/img_1.png)
+   ![img.png](img/img.png)
 
 Crie 2 tipos distintos de funcionários, cada um com seus respectivos bônus.
 
